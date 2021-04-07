@@ -85,3 +85,6 @@ company-statistics-cache.el
 
 # anaconda-mode
 anaconda-mode/
+
+# vagrant cache
+.vagrant/
